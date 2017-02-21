@@ -13,9 +13,8 @@ import matplotlib.gridspec as gridspec
 iris_dataset = load_iris()
 
 
-X, y = iris_dataset['data'], iris_dataset['target']
-features = iris_dataset['feature_names']
-target_names = iris_dataset['target_names']
+X, y, features, target_names = iris_dataset['data'], iris_dataset['target'], \
+ iris_dataset['feature_names'], iris_dataset['target_names']
 
 no = len(X[0])
 recs = []

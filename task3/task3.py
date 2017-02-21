@@ -9,8 +9,8 @@ def mean_stdev(dataset, axis=0):
     dataset : Numpy Array
         Dataset Presented as a numpy array.
     axis : int
-        It takes 0,1 or None, where default is 0 and
-        None means computing the mean of all the entries.
+        It takes 0,1 or None, where default is 0 and None
+        means computing the mean of all the entries.
 
     Returns
     -------

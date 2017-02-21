@@ -1,8 +1,3 @@
-#Homework 1
+Link to Task3: https://appliedmachinelearning.github.io/homework-i-solutions/task3/index.html
 
-Link to travis: [http://travis-ci.com/AppliedMachineLearning/homework-i-solutions](http://travis-ci.com/AppliedMachineLearning/homework-i-solutions)
-
-
-Link to taks3: [https://appliedmachinelearning.github.io/homework-i-solutions/task3](https://appliedmachinelearning.github.io/homework-i-solutions/task3)
-
-Link to task4: [https://appliedmachinelearning.github.io/homework-i-solutions/task4](https://appliedmachinelearning.github.io/homework-i-solutions/task4)
+Link to Task 4: https://appliedmachinelearning.github.io/homework-i-solutions/task4/index.html
